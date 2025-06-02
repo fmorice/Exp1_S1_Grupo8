@@ -2,7 +2,7 @@ package ex1_s2_grupo8;
 
 import java.util.Scanner;
 
-public class ex1_s2_grupo8 {
+public class Ex1_s2_grupo8 {
     public static void main(String[] args) {
         
         // para que muestre las tildes
